@@ -18,3 +18,4 @@
   <a href="mailto:felpsduarte055@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- vai me roubar?? -->
  ![snake gif](https://github.com/duarte-felipe/josedudias/blob/output/github-contribution-grid-snake-dark.svg)
+ <div>
